@@ -1,1 +1,4 @@
 geri alma şeysi
+
+
+Bu satır GitHub sitesinden eklendi.
